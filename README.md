@@ -1,5 +1,7 @@
 # Projet final : Création d'un site web statique de A à Z
 
+Vous pouvez tester l'application en ligne ici : [Inov'Tech](https://meriemezdari.github.io/Projet-Application-Web-JavaScript/)
+
 ## Contexte du projet
 Vous êtes arrivés à la fin de votre formation initiale en **HTML et CSS**. Il est temps de mettre en pratique l'ensemble de vos compétences pour créer un projet concret et complet.  
 
